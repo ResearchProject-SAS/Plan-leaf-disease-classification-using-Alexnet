@@ -1,4 +1,4 @@
-# Plan-leaf-disease-classification-using-Alexnet
+# Plant-leaf-disease-classification-using-Alexnet
 
 The AlexNet architecture is constructed using convolution neural network layers. It is made up of three fully connected layers and five convolutional
 layers. The first and second convolutional layers are the overlapping max pooling layers. The third, fourth and fifth layers are in direct connection and
